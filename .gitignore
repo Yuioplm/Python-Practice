@@ -1,0 +1,6 @@
+# 実行結果
+logs/
+output/
+
+# ログ・CSV
+*.log
